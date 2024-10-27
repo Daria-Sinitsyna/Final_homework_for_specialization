@@ -15,6 +15,10 @@ Desktop Documents Downloads  HumanFriends.txt  Music  PackAnimals.txt  Pets.txt 
 
 4. Управление deb-пакетами
    - Установить и затем удалить deb-пакет, используя команду `dpkg`.
+5. История команд в терминале Ubuntu
+   - Сохранить и выложить историю ваших терминальных команд в Ubuntu.
+В формате: Файла с ФИО, датой сдачи, номером группы(или потока)
+
 
 ![Снимок экрана от 2024-10-27 17-30-13](https://github.com/user-attachments/assets/a10d7147-a416-4a4c-9e5b-f6d6715a86f6)
 
@@ -29,6 +33,13 @@ Desktop Documents Downloads  HumanFriends.txt  Music  PackAnimals.txt  Pets.txt 
 ![Снимок экрана от 2024-10-27 18-37-36](https://github.com/user-attachments/assets/11bd4426-550d-4b97-9c41-a98f40c25744)
 
 
+6. Диаграмма классов
+   - Создать диаграмму классов с родительским классом "Животные", и двумя подклассами: "Pets" и "Pack animals".
+В составы классов которых в случае Pets войдут классы: собаки, кошки, хомяки, а в класс Pack animals войдут: Лошади, верблюды и ослы).
+Каждый тип животных будет характеризоваться (например, имена, даты рождения, выполняемые команды и т.д)
+Диаграмму можно нарисовать в любом редакторе, такими как Lucidchart, Draw.io, Microsoft Visio и других.
+
+![shema](https://github.com/user-attachments/assets/7e3c8088-2c6d-4b3c-b747-8cfe18a94a71)
 
 
 
