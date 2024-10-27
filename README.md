@@ -52,3 +52,6 @@ Desktop Documents Downloads  HumanFriends.txt  Music  PackAnimals.txt  Pets.txt 
    - Объединить все созданные таблицы в одну, сохраняя информацию о принадлежности к исходным таблицам.
 
 
+![дз](https://github.com/user-attachments/assets/d6c4b9fa-9e8c-4576-b3a7-b0904e908e55)
+
+
